@@ -11,4 +11,4 @@
 
 ## 2021-01-19
 [plot](https://github.com/alexlusco/tidy-tuesday/blob/main/figures/2021-01-19.png) | [code](https://github.com/alexlusco/tidy-tuesday/blob/main/code/2021-01-19.R)
-![](https://github.com/alexlusco/tidy-tuesday/blob/main/figures/2021-01-12.png)
+![](https://github.com/alexlusco/tidy-tuesday/blob/main/figures/2021-01-19.png)
