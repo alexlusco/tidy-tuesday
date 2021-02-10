@@ -20,3 +20,7 @@
 ## 2021-02-02
 [plot](https://github.com/alexlusco/tidy-tuesday/blob/main/figures/2021-02-02.gif) | [code](https://github.com/alexlusco/tidy-tuesday/blob/main/code/2021-02-02.R)
 ![](https://github.com/alexlusco/tidy-tuesday/blob/main/figures/2021-02-02.gif)
+
+## 2021-02-09
+[plot](https://github.com/alexlusco/tidy-tuesday/blob/main/figures/2021-02-09.png) | [code](https://github.com/alexlusco/tidy-tuesday/blob/main/code/2021-02-09.R)
+![](https://github.com/alexlusco/tidy-tuesday/blob/main/figures/2021-02-09.png)
